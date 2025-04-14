@@ -1,6 +1,6 @@
 import React from 'react';
-import amazonIcon from '../assets/amazon.png';
-import universityIcon from '../assets/university.png';
+import amazonIcon from '../assets/Amazon.png';
+import universityIcon from '../assets/University.png';
 import propaceIcon from '../assets/Pr-logo.png';
 
 function Rewards() {
