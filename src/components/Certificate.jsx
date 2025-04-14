@@ -1,5 +1,5 @@
 import React from 'react';
-import certificateImg from '../assets/certificate.png';
+import certificateImg from '../assets/Certificate.png';
 
 function Certificate() {
   return (
